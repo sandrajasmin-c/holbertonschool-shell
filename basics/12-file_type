@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr /tmp/ramafile
+lpr /tmp/iamafile
