@@ -1,2 +1,0 @@
-#!/bin/bash
-ln -s [target file] [Symbolic filename]
