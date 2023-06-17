@@ -1,2 +1,2 @@
 #!/bin/bash
-os.chmod("hola", modo_olleh)
+chmod $modo ("hola", modo_olleh)
