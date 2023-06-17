@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod $modo ("hola", modo_olleh)
+chmod $olleh_mode hello
+
