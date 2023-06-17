@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod u+x
+os.chmod("hola", modo_olleh)
