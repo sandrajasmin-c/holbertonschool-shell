@@ -1,2 +1,2 @@
 #!/bin/bash
-export contar_directorios /$PATH
+export contar_directorios $PATH=/bin::::/home:/usr:::::/home/me
